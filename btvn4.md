@@ -32,7 +32,7 @@ làm như những gì đã được học
 2.3 lớp học
 ![image](https://github.com/user-attachments/assets/e56733ab-d7b7-4c37-95b1-ea4f9d96aefe)
 2.4 thời khóa biểu
-![image](https://github.com/user-attachments/assets/1e53ba59-a94c-4628-9252-6c02193bf218)
+![image](https://github.com/user-attachments/assets/e3092f53-fbb8-47d8-8fe3-d898d5d23243)
 III nhập thông tin cho các bảng 
 3.1 Giáo viên 
 ![image](https://github.com/user-attachments/assets/449c1e10-151d-468b-b1d1-3090001c0b39)
