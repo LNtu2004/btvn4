@@ -36,4 +36,6 @@ làm như những gì đã được học
 III nhập thông tin cho các bảng 
 3.1 Giáo viên 
 ![image](https://github.com/user-attachments/assets/449c1e10-151d-468b-b1d1-3090001c0b39)
+3.2 lớp học
+![image](https://github.com/user-attachments/assets/27cb27d5-aa55-44a4-8f15-d4dba98bf3c6)
 
