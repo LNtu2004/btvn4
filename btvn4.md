@@ -40,4 +40,6 @@ III nhập thông tin cho các bảng
 ![image](https://github.com/user-attachments/assets/46ebb08c-7700-4a7c-a213-606f0db04d80)
 3.3 môn học
 ![image](https://github.com/user-attachments/assets/720af5f7-b8e0-44d3-adee-468ed3af4c6d)
+3.4 thời khóa biểu
+![image](https://github.com/user-attachments/assets/13db5d97-5f40-465a-9611-bd30d935346a)
 
