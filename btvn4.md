@@ -37,7 +37,7 @@ III nhập thông tin cho các bảng
 3.1 Giáo viên 
 ![image](https://github.com/user-attachments/assets/449c1e10-151d-468b-b1d1-3090001c0b39)
 3.2 lớp học
-![image](https://github.com/user-attachments/assets/f68aa7bd-6dca-46ae-8a74-fd5eda8aa07b)
+![image](https://github.com/user-attachments/assets/46ebb08c-7700-4a7c-a213-606f0db04d80)
 3.3 môn học
 ![image](https://github.com/user-attachments/assets/720af5f7-b8e0-44d3-adee-468ed3af4c6d)
 
