@@ -19,3 +19,6 @@ Gợi ý:
   
 
 deadline: 15/4/2025
+#                    BÀI LÀM
+I Tạo database mới có tên là : TKB / ( Thời khóa biểu )
+![image](https://github.com/user-attachments/assets/a2390ca6-1633-4279-ad17-86140fa9a9fc)
