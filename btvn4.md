@@ -42,4 +42,6 @@ III nhập thông tin cho các bảng
 ![image](https://github.com/user-attachments/assets/720af5f7-b8e0-44d3-adee-468ed3af4c6d)
 3.4 thời khóa biểu
 ![image](https://github.com/user-attachments/assets/13db5d97-5f40-465a-9611-bd30d935346a)
+IV bảng diagram
+![image](https://github.com/user-attachments/assets/51d23fe3-dc3b-4aa8-bf16-228401b96dd8)
 
