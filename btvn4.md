@@ -31,4 +31,6 @@ làm như những gì đã được học
 ![image](https://github.com/user-attachments/assets/e233dd87-bba2-446b-8402-9db479267615)
 2.3 lớp học
 ![image](https://github.com/user-attachments/assets/e56733ab-d7b7-4c37-95b1-ea4f9d96aefe)
+2.4 thời khóa biểu
+![image](https://github.com/user-attachments/assets/1e53ba59-a94c-4628-9252-6c02193bf218)
 
