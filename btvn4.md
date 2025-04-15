@@ -25,3 +25,5 @@ I Tạo database mới có tên là : TKB / ( Thời khóa biểu )
 II tạo bảng 
 làm như những gì đã được học
 ![image](https://github.com/user-attachments/assets/b4ae63ad-7f88-4619-87ef-05f918086b70)
+2.1 giáo viên 
+![image](https://github.com/user-attachments/assets/660c9d86-635f-4d88-9c02-d30918da2e8f)
