@@ -28,7 +28,7 @@ làm như những gì đã được học
 2.1 giáo viên 
 ![image](https://github.com/user-attachments/assets/660c9d86-635f-4d88-9c02-d30918da2e8f)
 2.2 Môn học 
-![image](https://github.com/user-attachments/assets/5142263c-7891-4566-86fd-2b5a924b6ebc)
+![image](https://github.com/user-attachments/assets/4a9b9223-109d-4e6a-962e-67cac09582b5)
 2.3 lớp học
 ![image](https://github.com/user-attachments/assets/e56733ab-d7b7-4c37-95b1-ea4f9d96aefe)
 2.4 thời khóa biểu
