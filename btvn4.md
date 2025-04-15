@@ -29,3 +29,5 @@ làm như những gì đã được học
 ![image](https://github.com/user-attachments/assets/660c9d86-635f-4d88-9c02-d30918da2e8f)
 2.2 Môn học 
 ![image](https://github.com/user-attachments/assets/e233dd87-bba2-446b-8402-9db479267615)
+2.3 lớp học
+![image](https://github.com/user-attachments/assets/fe804e38-d62d-4195-8cbb-4f50ba92b118)
