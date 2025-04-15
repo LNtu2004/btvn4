@@ -38,4 +38,6 @@ III nhập thông tin cho các bảng
 ![image](https://github.com/user-attachments/assets/449c1e10-151d-468b-b1d1-3090001c0b39)
 3.2 lớp học
 ![image](https://github.com/user-attachments/assets/27cb27d5-aa55-44a4-8f15-d4dba98bf3c6)
+3.3 môn học
+![image](https://github.com/user-attachments/assets/720af5f7-b8e0-44d3-adee-468ed3af4c6d)
 
